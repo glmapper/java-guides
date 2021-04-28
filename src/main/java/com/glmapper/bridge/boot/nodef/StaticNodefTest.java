@@ -1,13 +1,13 @@
 package com.glmapper.bridge.boot.nodef;
 
 /**
- * @author: guolei.sgl (guolei.sgl@antfin.com) 2021/3/9 4:07 下午
- * @since:
+ * @author glmapper_2018@163.com 2021/3/9 4:07 下午
+ * @since
  **/
 public class StaticNodefTest {
     public static void main(String[] args) {
         System.out.println("java.lang.NoClassDefFoundError Simulator - Training 2");
-        System.out.println("Author: Pierre-Hugues Charbonneau");
+        System.out.println("author Pierre-Hugues Charbonneau");
         System.out.println("http://javaeesupportpatterns.blogspot.com\n\n");
 
         try {

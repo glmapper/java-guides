@@ -1,8 +1,8 @@
 package com.glmapper.bridge.boot.nodef;
 
 /**
- * @author: guolei.sgl (guolei.sgl@antfin.com) 2021/3/9 4:14 下午
- * @since:
+ * @author glmapper_2018@163.com 2021/3/9 4:14 下午
+ * @since
  **/
 public class ClassA {
     private final static String CLAZZ = ClassA.class.getName();

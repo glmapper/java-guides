@@ -3,8 +3,8 @@ package com.glmapper.bridge.boot.finalize;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author: guolei.sgl (guolei.sgl@antfin.com) 2021/3/8 11:16 上午
- * @since:
+ * @author glmapper_2018@163.com 2021/3/8 11:16 上午
+ * @since
  **/
 public class TestMain {
 

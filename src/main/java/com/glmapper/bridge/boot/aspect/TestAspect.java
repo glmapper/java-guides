@@ -7,8 +7,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 /**
- * @author: guolei.sgl (guolei.sgl@antfin.com) 2021/3/19 5:24 下午
- * @since:
+ * @author glmapper_2018@163.com 2021/3/19 5:24 下午
+ * @since
  **/
 //@Component
 //@Aspect

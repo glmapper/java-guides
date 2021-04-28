@@ -1,8 +1,8 @@
 package com.glmapper.bridge.boot.threadlocal;
 
 /**
- * @author: guolei.sgl (guolei.sgl@antfin.com) 2021/3/18 11:00 上午
- * @since:
+ * @author glmapper_2018@163.com 2021/3/18 11:00 上午
+ * @since
  **/
 public class ThreadLocalTest {
 
